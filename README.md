@@ -1,1 +1,1 @@
-[笔记](https://wengzhisong-hz.github.io/)
+[个人博客](https://wengzhisong-hz.github.io/)
