@@ -14,4 +14,8 @@
 
 [NodeJS知识体系（基础、源码、框架、应用）](https://github.com/wengzhisong-hz/learning-nodejs) 【⚡施工中】
 
+### 🏔 兴趣
+
+[我的LeetCode主页](https://leetcode-cn.com/u/wengzhisong/)
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=wengzhisong-hz.wengzhisong-hz" />
