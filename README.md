@@ -12,7 +12,7 @@
 
 ### 📖 博客
 
-[NodeJS进阶（基础、源码、框架、应用）](https://github.com/wengzhisong-hz/learning-nodejs)
+[NodeJS 进阶：源码分析与实战应用](https://github.com/wengzhisong-hz/learning-nodejs)
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=wengzhisong-hz.wengzhisong-hz" />
