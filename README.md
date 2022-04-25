@@ -15,4 +15,4 @@
 [NodeJS 进阶：源码分析与实战应用](https://github.com/wengzhisong-hz/learning-nodejs)
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=wengzhisong-hz.wengzhisong-hz" />
+[![wengzhisong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wengzhisong-hz)](https://github.com/anuraghazra/github-readme-stats?&count_private=true)
