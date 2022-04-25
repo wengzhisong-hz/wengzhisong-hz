@@ -1,6 +1,6 @@
 
 
-### 🔍 Focusing on
+### 🔍 Focus on
 
 `前端低代码平台搭建 & 落地`
 
