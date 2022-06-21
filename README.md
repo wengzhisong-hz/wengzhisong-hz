@@ -12,7 +12,8 @@
 
 ### 📖 博客
 
-[NodeJS 进阶：源码分析与实战应用](https://github.com/wengzhisong-hz/learning-nodejs)
+[nodejs 进阶：源码分析与实战应用](https://github.com/wengzhisong-hz/learning-nodejs)
+
 [c++笔记](https://github.com/wengzhisong-hz/learning-cpp)
 
 
