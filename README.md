@@ -12,7 +12,7 @@
 
 ### 📖 博客
 
-[nodejs 进阶：源码分析与实战应用](https://github.com/wengzhisong-hz/learning-nodejs)
+[nodejs源码分析、c++插件、框架学习、实战案例](https://github.com/wengzhisong-hz/learning-nodejs)
 
 [c++笔记](https://github.com/wengzhisong-hz/learning-cpp)
 
