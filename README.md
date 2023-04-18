@@ -2,13 +2,9 @@
 
 ### 🔍 Focus on
 
-`前端低代码平台搭建 & 落地`
+`低代码平台`
 
 `Node.js`
-
-### 🏠 社区贡献
-
-[2021 KubeSphere Contributor](https://pek3b.qingstor.com/kubesphere-community/images/contributor-wengzhisong.png)
 
 ### 📖 博客
 
